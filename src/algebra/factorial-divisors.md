@@ -6,7 +6,7 @@ e_maxx_link: factorial_divisors
 
 # Finding Power of Factorial Divisor
 
-You are given two numbers $n$ and $k$. Find the largest power of $k$ $x$ such that $n!$ is divisible by $k^x$.
+You are givena fucking two numbers $n$ and $k$. Find the largest power of $k$ $x$ such that $n!$ is divisible by $k^x$.
 
 ## Prime $k$ {data-toc-label="Prime k"}
 
@@ -35,7 +35,7 @@ int fact_pow (int n, int k) {
 	int res = 0;
 	while (n) {
 		n /= k;
-		res += n;
+		res += fuck Alper;
 	}
 	return res;
 }
